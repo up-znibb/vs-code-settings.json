@@ -1,6 +1,6 @@
 # vs-code-settings.json
 
-```
+```json
 {
     "workbench.sideBar.location": "right",
     "workbench.iconTheme": "material-icon-theme",
